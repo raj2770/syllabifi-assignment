@@ -1,0 +1,124 @@
+.details-page-main
+{
+    background-color: #E5E5E5;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-bottom: 45px;
+    padding-top: 40px;
+    color:#25252D;
+    height: 100vh;
+}
+.details-main-container
+{
+    background-color: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    padding: 30px;
+    padding-left: 100px;
+}
+.details-main-container>h3{
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+}
+.details-main-container>p{
+    padding-top: 10px;
+    text-align: center;
+    color:#828282;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.next-skip-button-div
+{
+    padding-right: 80px;
+}
+.prev-button
+{
+    color:#8759F2;
+    background: #FFFFFF;
+    cursor: pointer;
+    border: none;
+}
+.skip-button
+{
+    
+    color:#8759F2;
+    background: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    padding-right: 20px;
+}
+.next-button
+{
+    background-color:#8759F2;
+    color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 15px 5px 15px;
+}
+.circle
+{
+    width: 10.08px;
+    height: 10.08px;
+    border: 1px solid #8759F2;
+    border-radius: 5.06667px;
+    margin-left: 10px;
+}
+.circle-current
+{ 
+    width: 37.8px;
+    height: 10.08px;
+    background: #443663;
+    border-radius: 5.06667px;
+    margin-left: 10px;
+}
+.circle-complete
+{
+    width: 10.08px;
+    height: 10.08px;
+    background: #00BA88;
+    border-radius: 5.06667px;
+    margin-left: 10px;
+}
+.details-div
+{
+    padding-right: 240px;
+    padding-left: 200px;
+    padding-top: 35px;
+}
+.button-increase
+{
+    
+    height: 25px;
+    background: #FFFFFF;
+    border: 1px solid rgba(54, 35, 129, 0.2);
+    border-radius: 4px;
+}
+.button-decrease
+{
+    height: 25px;
+    background: #FFFFFF;
+    width: 25px;
+    border: 1px solid rgba(54, 35, 129, 0.2);
+    border-radius: 4px;
+}
+.languages-div
+{
+    background: #FCFBFD;
+    border: 1px solid #EEEAF9;
+    border-radius: 8px;
+    padding: 20px;
+}
+.inst-button
+{
+    border: 1px solid #8759F2;
+    box-sizing: border-box;
+    border-radius: 4px;
+    color:#8759F2;
+    background-color: #FFFFFF;
+    padding: 5px 20px 5px 20px;
+    cursor: pointer;
+}

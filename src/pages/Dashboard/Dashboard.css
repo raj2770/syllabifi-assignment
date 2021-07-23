@@ -1,0 +1,244 @@
+.dashboard-main-page-container
+{
+    padding: 0px;
+    margin: 0px;
+    background-color: #FFFFFF;
+    color:#25252D;
+}
+.side-nav-div
+{
+    width: 18%;
+    padding: 1%;
+    border-right: 1px solid #DFE1E6;
+}
+.company-logo-div>img{
+    width: 20%;
+}
+.company-logo-div>p{
+    font-weight: bold;
+    font-size: 22px;
+    padding-left: 2%;
+}
+.user-information-div
+{
+    width:82%;
+    border-left: 0.5px solid #DFE1E6;
+
+}
+.user-nav-div
+{
+   padding: 1.5%; 
+}
+.user-img-name-div
+{
+    background: #F7F5FC;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 100px;
+}
+.user-activity-main-container
+{
+    background-color: #F7F5FC;
+    padding: 1.9%;
+}
+.greeting-text
+{
+    font-weight: 600;
+    font-size: 28px;
+    color: #25252D;
+
+}
+.priority-card
+{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    width: 60%;
+    padding: 3%;
+}
+.next-task-card
+{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    width: 30%;
+    padding: 3%;
+    margin-left: 4%;
+}
+.cross-file-con-div
+{
+    background: #FFE8F0;
+    width: 70px;
+    height: 70px;
+    border-radius: 50PX;
+}
+.plus-file-con-div
+{
+    background: #DBF3ED;
+    width: 70px;
+    height: 70px;
+    border-radius: 50PX;
+}
+.plus-file-con-div>i{
+    color: #FFFFFF;
+}
+.cross-file-con-div>i{
+    background-color: #F53D6B;
+    color: #FFFFFF;
+}
+.ballance-card
+{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
+.assignment-progress-div
+{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    padding: 3%;
+}
+.assignment-card
+{
+    background:#FFFFFF;
+    border-radius: 4px;
+    padding: 1%;
+}
+.assignment-card:hover{
+    background: #F7F7F8;
+}
+.key-icon
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50PX;
+    background:#FFE8F0;
+}
+.assignment-status-div
+{
+    
+    border-radius: 30px;
+}
+.assignment-continue-button
+{
+    background: #FFFFFF;
+    border: 1px solid #8759F2;
+    border-radius: 8px;
+    padding: 10%;
+    color:#8759F2;
+    cursor: pointer;
+}
+.assignment-continue-button:hover
+{
+    background:#8759F2 ;
+    border-radius: 8px;
+    color:#FFFFFF;
+    border: 1px solid #8759F2;
+    cursor: pointer;
+}
+.best-practices-div
+{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    padding: 3%;
+}
+.progress-card
+{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
+.edit-icon-div
+{
+    font-weight: 600;
+    font-size: 16px;
+    color: #8759F2;
+}
+.progress-card-sta-div
+{
+    background: linear-gradient(0deg, #479899, #479899);
+    border-radius: 8px;
+    padding: 5%;
+}
+.progress-bar
+{
+    padding: 88px 4px 88px 4px;
+    background: #887F9C;
+    opacity: 0.25;
+    border-radius: 4px;
+    
+}
+.progress-bar1
+{
+    background-image:
+    linear-gradient(180deg, #F44771 0%, #FD29B5 100%),
+    #887F9C,
+    linear-gradient(180deg, #4262FE 0%, #C059FF 100%),
+    #887F9C;
+   background-size:
+   4% 100%,
+   50% 100%,
+   60% 100%,
+   100% 100%;
+background-repeat:no-repeat;
+}
+.leader-board-card
+{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
+.contactus-card
+{
+    background: #FFFFFF;
+    box-shadow: 0px 24px 60px -30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
+.nav-dash-button
+{
+    background: #EEEAF9;
+    border-radius: 4px;
+    padding: 5% 0% 5% 5%;
+    border: none;
+    color:#8759F2;
+    margin:30% 0% 5% 0% ;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+}
+.nav-button
+{
+    
+    background-color: #FFFFFF;
+    border-radius: 4px;
+    border: none;
+    margin:1% 0% 1% 0% ;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 5% 0% 5% 5%;
+    cursor: pointer;
+}
+.user-rank-card
+{
+    
+    background: #F7F5FC;
+    border-radius: 4px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    
+}
+.rank-show-button
+{   
+    cursor: pointer;
+    background: #FFFFFF;
+    border: 1px solid #8759F2;
+    border-radius: 8px;
+    color:#8759F2;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 7%;
+    margin-left: 5%;
+}
